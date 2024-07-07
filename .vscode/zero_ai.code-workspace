@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"[Monokai]": {
+				"sideBar.background": "#5c0000"
+			}
+		}
+	}
+}

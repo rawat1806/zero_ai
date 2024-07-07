@@ -1,0 +1,20 @@
+{
+    "workbench.colorCustomizations": {
+      "terminal.foreground": "#e4b600",
+      "terminal.background": "#010624",
+      "editorGroupHeader.tabsBackground": "#010624",
+      "tab.activeForeground": "#ffffff",
+      "tab.activeBackground": "#bbe50029",
+      "tab.inactiveForeground": "#51577a",
+      "tab.inactiveBackground": "#010624",
+      "scrollbarSlider.background": "#51577a",
+      "scrollbarSlider.hoverBackground": "#ffffff",
+      "sideBar.background": "#010624",
+      "sideBar.foreground": "#ffffff",
+      "list.activeSelectionBackground": "#51577a",
+      "list.activeSelectionForeground": "#ffffff",
+      "sideBarTitle.foreground": "#ffffff",
+      "sideBarTitle.background": "#010624"
+    },
+    "java.compile.nullAnalysis.mode": "disabled"
+  }
